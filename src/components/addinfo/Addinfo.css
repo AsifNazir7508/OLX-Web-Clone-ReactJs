@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Mynerve&display=swap');
+
+.maindiv{
+
+
+    display: flex;
+    /* border: 2px solid yellow; */
+}
+
+.mainbox1{
+
+    height: 65vh;
+    width: 55vw;
+    /* border: 2px solid red; */
+    margin: 20px 0 0 100px;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+
+}
+
+.mainbox1 img {
+    height: 65vh;
+    width: 30vw;
+    
+}
+
+.mainbox2{
+
+    height: 20vh;
+    width: 25vw;
+    border: 1px solid #514F4F;
+    margin: 20px 0 0 10px;
+
+
+}
+
+.mainbox3{
+
+    height: 30vh;
+    width: 25vw;
+    /* border: 2px solid blue; */
+    margin: 10px 0 0 10px;
+    border: 1px solid #514F4F;
+    
+    
+}
+
+
+.mainbox3 img{
+    height: 8vh;
+    width: 5vw;
+
+    
+    
+}
+.chatwithseller{
+
+    border: 2px solid aqua;
+    height: 6vh;
+    width: 22vw;
+
+    margin: 20px 10px 0px 10px ;
+    background-color: #002f34;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+
+
+
+}
+
+
+.avt{
+    display: flex;
+}
+
+.avttext{
+
+
+    font-family: 'Roboto', sans-serif;
+font-size: 14px;    
+margin: 5px 0 0 5px;
+}
+
+.sellerdescription{
+
+    font-family: 'Roboto', sans-serif;
+    margin: 8px 0 8px 8px;
+}
+
+
+
+
+.mainbox2 h4{
+
+    font-family: 'Roboto', sans-serif;
+    margin: 10px 0 5px 10px;
+
+}
+
+.mainbox2 h5{
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    margin: 5px 0 5px 10px;
+    color: #514F4F;
+
+}
+
+
+
+.mainbox2 h6{
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    margin: 25px 0 5px 10px;
+color: #514F4F;
+}
+
+
+
+
+

@@ -1,0 +1,114 @@
+
+.container{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15vh 0 0 0;
+    
+
+}
+
+.aditem{
+
+
+    background-color: #f7f8f9;
+    border: 1px solid black;
+    border-radius: 7px;
+    height: 70vh;
+    width: 50vw;
+    
+    
+}
+
+
+
+
+.aditemwelcome{
+    display: flex;
+    justify-content: center;
+
+    margin: 0px 0 10px 0;
+}
+
+.aditememail{
+
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.aditememail input{
+    height: 5vh;
+    width: 22vw;
+    margin: 10px 0 0px 0;
+    border: 1px solid #002f34;
+    border-radius: 4px;
+
+}
+
+.aditempassword{
+
+
+    display: flex;
+    justify-content: center;
+
+
+}
+
+
+
+.aditempassword input{
+    height: 5vh;
+    width: 22vw;
+    margin: 10px 0 0px 0;
+    border: 1px solid #002f34;
+    border-radius: 4px;
+}
+
+.aditempagebutton{
+
+
+
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
+.aditempagebutton button{
+    height: 5vh;
+    width: 22vw;
+    margin: 10px 0 10px 0;
+    
+background-color: #002f34;
+color: whitesmoke;
+}
+
+.aditemaddress{
+    display: flex;
+    justify-content: center;
+}
+
+.aditemaddress input{
+
+    height: 15vh;
+    width: 22vw;
+    margin: 10px 0 0px 0;
+    border: 1px solid #002f34;
+    border-radius: 4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

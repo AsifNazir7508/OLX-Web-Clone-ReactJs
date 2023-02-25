@@ -1,0 +1,108 @@
+
+.container{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15vh 0 0 0;
+    
+
+}
+
+.signup{
+
+
+    background-color: #f7f8f9;
+    border: 1px solid black;
+    border-radius: 7px;
+    height: 70vh;
+    width: 30vw;
+    
+    
+}
+
+
+
+
+.sgnavt{
+    display: flex;
+    justify-content: center;
+
+}
+
+.sgnavt img {
+
+    height: 10vh;
+    width: 10vw;
+margin: 20px 0 20px 0;
+
+}
+
+.sgnwelcome{
+    display: flex;
+    justify-content: center;
+
+    margin: 0px 0 10px 0;
+}
+
+.sgnemail{
+
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.sgnemail input{
+    height: 5vh;
+    width: 22vw;
+    margin: 10px 0 0px 0;
+    border: 1px solid #002f34;
+    border-radius: 4px;
+
+}
+
+.sgnpassword{
+
+
+    display: flex;
+    justify-content: center;
+
+
+}
+
+
+
+.sgnpassword input{
+    height: 5vh;
+    width: 22vw;
+    margin: 10px 0 0px 0;
+    border: 1px solid #002f34;
+    border-radius: 4px;
+}
+
+.sgnpagebutton{
+
+
+
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.sgnpagebutton button{
+    height: 5vh;
+    width: 22vw;
+    margin: 10px 0 10px 0;
+    
+background-color: #002f34;
+color: whitesmoke;
+}
+
+
+
+
+
+
+

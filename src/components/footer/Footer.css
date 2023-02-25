@@ -1,0 +1,180 @@
+  @import url('https://fonts.googleapis.com/css2?family=Mynerve&display=swap');
+footer{
+
+    background-color: #F6F1F1;
+    height: 25vh;
+    
+    
+} 
+
+.foot{
+
+    display: flex;
+    margin: 30px 0 0 0;
+    /* background-color: red; */
+
+}
+
+.img1 img{
+
+    height: 20vh;
+    width: 25vw;
+    margin: 0 0 0 100px;
+}
+
+.foottext h3{
+    color: #002f34;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+font-size: 30px;
+
+}
+
+.foottext h4{
+    margin: 10px 0 0 0;
+    color: #002f34;
+    font-family: 'Quicksand', sans-serif;
+
+
+}
+ 
+
+.applogo img{
+    height: 4vh;
+    width: 6vw;
+    
+}
+
+.applogo h3{
+ 
+    
+    color: #002f34;
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+.trending{
+    display: flex;
+    justify-content: center;
+    background-color: #F6F1F1;
+
+
+}
+
+.box1{
+
+    height: 30vh;
+    width:20vw;
+    /* border: 2px solid black; */
+    margin: 10px 0 0 0;
+    
+
+}
+
+.box1 h3{
+
+    color: #002f34;
+    font-family: 'Quicksand', sans-serif;
+font-size: large;
+font-weight: bold;
+
+}
+
+.box1 h2{
+
+    color: #002f34;
+    font-family: 'Quicksand', sans-serif;
+font-size: small;
+font-weight: bold;
+margin: 8px 0 0 0;
+
+}
+
+
+.box2{
+
+    height: 30vh;
+    width:20vw;
+    /* border: 2px solid black; */
+    margin: 10px 0 0 0;
+}
+
+.box2 h3{
+
+    color: #002f34;
+    font-family: 'Quicksand', sans-serif;
+font-size: large;
+font-weight: bold;
+
+}
+
+.box2 h2{
+
+    color: #002f34;
+    font-family: 'Quicksand', sans-serif;
+font-size: small;
+font-weight: bold;
+margin: 8px 0 0 0;
+
+}
+
+.box3{
+
+    height: 30vh;
+    width:20vw;
+    /* border: 2px solid black; */
+    margin: 10px 0 0 0;
+}
+
+.box3 h2{
+
+    color: #002f34;
+    font-family: 'Quicksand', sans-serif;
+font-size: small;
+font-weight: bold;
+margin: 8px 0 0 0;
+
+}
+
+.box3 h3{
+
+color: #002f34;
+font-family: 'Quicksand', sans-serif;
+font-size: large;
+font-weight: bold;
+
+}
+
+.box4{
+
+    height: 30vh;
+    width:20vw;
+    /* border: 2px solid black; */
+    margin: 10px 0 0 0;
+}
+
+.box4 h2{
+
+    color: #002f34;
+    font-family: 'Quicksand', sans-serif;
+font-size: small;
+font-weight: bold;
+margin: 8px 0 0 0;
+
+}
+.box4 h3{
+
+    color: #002f34;
+    font-family: 'Quicksand', sans-serif;
+font-size: large;
+font-weight: bold;
+
+}
+
+.lastline{
+    color:white;
+    background-color: #002f34;
+    height: 10vh;
+    display: flex;
+    justify-content: end;
+}

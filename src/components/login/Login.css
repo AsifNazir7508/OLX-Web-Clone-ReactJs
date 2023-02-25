@@ -1,0 +1,116 @@
+
+.container{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15vh 0 0 0;
+    
+
+}
+
+.login{
+
+
+    background-color: #f7f8f9;
+    border: 1px solid black;
+    border-radius: 7px;
+    height: 70vh;
+    width: 30vw;
+    
+    
+}
+
+
+
+
+.logavt{
+    display: flex;
+    justify-content: center;
+
+}
+
+.logavt img {
+
+    height: 10vh;
+    width: 10vw;
+margin: 20px 0 20px 0;
+
+}
+
+.loginwelcome{
+    display: flex;
+    justify-content: center;
+
+    margin: 0px 0 10px 0;
+}
+
+.loginemail{
+
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.loginemail input{
+    height: 5vh;
+    width: 22vw;
+    margin: 10px 0 0px 0;
+    border: 1px solid #002f34;
+    border-radius: 4px;
+
+}
+
+.loginpassword{
+
+
+    display: flex;
+    justify-content: center;
+
+
+}
+
+
+
+.loginpassword input{
+    height: 5vh;
+    width: 22vw;
+    margin: 10px 0 0px 0;
+    border: 1px solid #002f34;
+    border-radius: 4px;
+}
+
+.loginpagebutton{
+
+
+
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.loginpagebutton button{
+    height: 5vh;
+    width: 22vw;
+    margin: 10px 0 10px 0;
+    
+background-color: #002f34;
+color: whitesmoke;
+}
+
+
+.loginregister{
+    display: flex;
+    justify-content: center;
+    color: #002f34;
+}
+
+
+
+
+
+
+
+
